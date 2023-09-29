@@ -1,2 +1,2 @@
 # JitterAim
-Jitter aim para cuando me de paja 
+Jitter aim apx Tipo Lua para LogitechGhub
